@@ -8,7 +8,7 @@ Projeto Construído do evento Next level Week da Rocketseat.😘
 
 Fiz o exercício mais a minha cara!
 
-[🔗CLIQUE AQUI PARA ACESSAR😍](http://lailaamorim.github.io//)
+[🔗CLIQUE AQUI PARA ACESSAR😍](https://lailaamorim.github.io/NLW--Exercicios/)
 
 ## 🙂Tecnologias
 
